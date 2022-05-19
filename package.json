@@ -1,0 +1,21 @@
+{
+  "name": "gopro-view-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "download": "ts-node download.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "minimist": "^1.2.6",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  },
+  "devDependencies": {
+    "@types/minimist": "^1.2.2"
+  }
+}
